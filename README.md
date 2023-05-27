@@ -2,4 +2,4 @@
 git clone https://github.com/Sobuj7500/Pro
 cd Pro
 ls
-python SM.cpython-311.pyc
+python SMpro.cpython-311.pyc
